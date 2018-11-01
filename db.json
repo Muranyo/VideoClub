@@ -1,0 +1,97 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "titulo": "Star Wars: A New Hope",
+      "descripcion": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader",
+      "imagen": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,643,1000_AL_.jpg",
+      "genero": "Ciencia Ficcion",
+      "alquilada": false,
+      "valoracion": 0,
+      "cantidadAlquileres": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Star Wars: The Empire strikes back",
+      "descripcion": "After the rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader. ",
+      "imagen": "http://marqueeposter.com/wp-content/uploads/posters/7-star-wars-episode-v-the-empire-strikes-back-gwtw-recalled-us-1-sheet-1980/7-star-wars-episode-v-the-empire-strikes-back-gwtw-recalled-us-1-sheet-1980-02.jpg",
+      "genero": "Ciencia Ficcion",
+      "alquilada": false,
+      "valoracion": 0,
+      "cantidadAlquileres": 0
+    },
+    {
+      "id": 3,
+      "titulo": "Star Wars: Return of the Jedi",
+      "descripcion": "After a daring mission to rescue Han Solo from Jabba the Hutt, the rebels dispatch to Endor to destroy a more powerful Death Star. Meanwhile, Luke struggles to help Vader back from the dark side without falling into the Emperor's trap.",
+      "imagen": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY999_CR0,0,644,999_AL_.jpg",
+      "genero": "Ciencia Ficcion",
+      "alquilada": false,
+      "valoracion": 0,
+      "cantidadAlquileres": 0
+    },
+    {
+      "id": 4,
+      "titulo": "Star Wars: Episode I - The Phantom Menace",
+      "descripcion": "Two Jedi Knights escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their old glory.",
+      "imagen": "https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY999_SX666_AL_.jpg",
+      "genero": "Ciencia Ficcion",
+      "alquilada": false,
+      "valoracion": 0,
+      "cantidadAlquileres": 0
+    },
+    {
+      "id": 5,
+      "titulo": "Star Wars: Episode II - Attack of the Clones ",
+      "descripcion": "Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-wan Kenobi investigates an assassination attempt on the Senator and discovers a secret clone army crafted for the Jedi.",
+      "imagen": "https://m.media-amazon.com/images/M/MV5BMDAzM2M0Y2UtZjRmZi00MzVlLTg4MjEtOTE3NzU5ZDVlMTU5XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SY999_CR0,0,659,999_AL_.jpg",
+      "genero": "Ciencia Ficcion",
+      "alquilada": false,
+      "valoracion": 0,
+      "cantidadAlquileres": 0
+    },
+    {
+      "id": 6,
+      "titulo": "Dunkirk",
+      "descripcion": "Allied soldiers from Belgium, the British Empire and France are surrounded by the German Army, and evacuated during a fierce battle in World War II.",
+      "imagen": "https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+      "genero": "Ciencia Ficcion",
+      "alquilada": true,
+      "valoracion": 1,
+      "cantidadAlquileres": 1
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Nicolas Alejandro",
+      "apellido": "Lopez Rezett",
+      "usuario": "admin",
+      "contrasena": "admin",
+      "telefono": "3434562290",
+      "correo": "nicolohn@hotmail.com",
+      "estado": ""
+    },
+    {
+      "id": 2,
+      "nombre": "Nicolas Alejandro",
+      "apellido": "Lopez Rezett",
+      "usuario": "user",
+      "contrasena": "user",
+      "telefono": "3434562290",
+      "correo": "nicolohn@hotmail.com",
+      "estado": ""
+    },
+    {
+      "id": 3,
+      "nombre": "Jorge",
+      "apellido": "Martin",
+      "usuario": "user2",
+      "contrasena": "user2",
+      "telefono": "3434562290",
+      "correo": "nicolohn@gmail.com",
+      "estado": "",
+      "histPeliculas": []
+    }
+  ]
+}
